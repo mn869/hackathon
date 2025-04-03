@@ -124,6 +124,7 @@ span{
 }
 .social-icons a{
     display: inline flex;
+    color: var(--main-color);
     justify-content: center;
     align-items: center;
     width: 4.5rem;
