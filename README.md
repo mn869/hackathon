@@ -9,6 +9,7 @@ This is a responsive portfolio website designed to showcase skills, services, an
 - [How to Use](#how-to-use)
 - [Future Enhancements](#future-enhancements)
 - [Author](#author)
+- [Live Demo](#live-demo)
 - [License](#license)
 
 ---
@@ -64,6 +65,11 @@ hackathon-plp/
 ## Author
 **Swagger Marie**  
 A tech-savvy individual passionate about cybersecurity, technology, and storytelling.
+
+---
+
+## Live Demo
+The website will be live at: https://mn869.github.io/hackathon/
 
 ---
 
